@@ -33,8 +33,6 @@ body {
 
 .flowers {
   position: fixed;
-  top: 50%;
-  left: 50%;
   transform: scale(0.7);
 }
 
