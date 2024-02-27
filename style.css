@@ -10,11 +10,6 @@
   --dark-color: #000;
 }
 
-iframe {
-  display: block;
-  visibility: visible;
-}
-
 body {
   display: flex;
   align-items: flex-end;
