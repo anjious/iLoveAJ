@@ -11,7 +11,7 @@
 }
 
 iframe {
-  display: block; /* or display: inline-block; */
+  display: block;
   visibility: visible;
 }
 
